@@ -16,6 +16,7 @@ Passionate Data Science professional with 12+ years of experience across diverse
 
 - **Machine Learning:** Regression, Classification, Clustering, Ensemble Methods, Dimensionality Reduction
 - **Generative AI:** LLMs (OpenAI GPT, Google Gemini AI), LLAMA2, Huggingface
+- **Computer Vision:** OpenCV, PIL
 - **MLOps:** GitHub Actions, AWS EC2, ECR, CI/CD pipelines
 - **Languages:** Python, R, SAS, Unix Shell Scripting
 - **Big Data:** PySpark, Databricks
