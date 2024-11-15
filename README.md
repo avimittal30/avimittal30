@@ -20,7 +20,7 @@ Passionate Data Science professional with 12+ years of experience across diverse
 - **MLOps:** GitHub Actions, AWS EC2, ECR, CI/CD pipelines
 - **Languages:** Python, R, SAS, Unix Shell Scripting
 - **Big Data:** PySpark, Databricks
-- **Cloud Platforms:** AWS (Sagemaker, EC2, S3), Azure (ML Studio, Data Factory, Databricks)
+- **Cloud Platforms:** AWS (Sagemaker, EC2, S3), Azure (AI services, ML Studio, Data Factory, Databricks)
 - **Visualization:** PowerBI, Tableau, Advanced Excel
 
 ## 🔬 Current Focus: Generative AI
