@@ -1,6 +1,6 @@
 # Aviral Mittal
 
-🌍 Dubai, UAE | 📞 +971-569046214, +91-9561231864 | 📧 avimittal30@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aviral-mittal-11027011/)
+🌍 Gurugram, India | 📞 +971-569046214, +91-9561231864 | 📧 avimittal30@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aviral-mittal-11027011/)
 
 ## 👨‍💻 About Me
 
