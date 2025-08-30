@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate Data Science professional with 12+ years of experience across diverse industries and geographies. I specialize in leveraging advanced analytics and machine learning to drive business growth and innovation. Currently, I'm deeply immersed in upskilling in Generative AI, exploring its transformative potential across various domains.
+Passionate Data Science professional with 14 years of experience across diverse industries and geographies. I specialize in leveraging advanced analytics and machine learning to drive business growth and innovation. Currently, I'm deeply immersed in upskilling in Generative AI, exploring its transformative potential across various domains.
 
 ## 🚀 Professional Journey
 
