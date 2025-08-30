@@ -35,5 +35,5 @@ I'm actively expanding my expertise in Generative AI, focusing on:
 
 ## 💡 Let's Connect!
 
-I'm always excited to collaborate on innovative projects, especially in the realm of Generative AI and advanced analytics. Feel free to reach out for discussions, collaborations, or just a chat about the latest in AI!
+I'm always excited to collaborate on innovative projects, especially in the realm of Generative AI, Agentic AI and Data Science. Feel free to reach out for discussions, collaborations, or just a chat about the latest in AI!
 
