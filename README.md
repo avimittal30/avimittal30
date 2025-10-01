@@ -9,7 +9,7 @@ Passionate Data Science professional with 14 years of experience across diverse 
 ## 🚀 Professional Journey
 
 - **Technical Lead - AI/ML** | Solugenix (May 2025 - Present)
-- **Associate Manager - Data Science and Analytics** | Infogain-Middle East (Aug 2017 - Mar 2024)
+- **Associate Manager - Data Science & AI/ML** | Infogain-Middle East (Aug 2017 - Mar 2024)
 - **Senior Data Analyst** | LatentView Analytics Ltd (May 2015 - Jul 2017)
 - **Data Engineer (SE)** | Mphasis (Mar 2010 - May 2013)
 
